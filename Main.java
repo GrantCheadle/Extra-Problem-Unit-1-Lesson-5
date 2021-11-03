@@ -8,7 +8,6 @@ class Main {
     double sum = (tempInput * 1.8) + 32;
     System.out.print(sum);
 
-    Sytem.out.println("Hello World!");
     
   }
 }
